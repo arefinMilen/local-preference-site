@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    padding: 1rem;
+ 
+}
+select{
+    margin: 0 1rem  1rem 0;
+}
+
+main{
+    background-color: coral;
+    padding: 1rem;
+    font-size: 16px;
+
+}
+p{
+    margin: 1rem;
+    ;
+}
+button{
+    padding:0 1rem;
+    font-size: 1.2rem;
+    
+}
+
